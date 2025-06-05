@@ -1,4 +1,4 @@
-Student Management System
+Student Management System(Practice OOP)
 
 Concepts: Classes, objects, constructors, lists, basic methods.
 
